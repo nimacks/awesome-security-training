@@ -1,10 +1,10 @@
-![Awesome AWS Amplify](amplifyheader.jpg)
+# Awesome Security Training
 
 Awesome security training curates the best AWS security, tools, tutorials, articles and more. PRs are welcome!  
 
-__Check out the Leaders Room Discord server__    
+__Check out the AfroTechMates Discord server__    
 
-[![Amplify Discord](discord-200.jpg)](https://discord.gg/jWVbPfC)
+[![AfroTechMates Discord](discord-200.jpg)](https://discord.gg/djNWMRUDzs)
 
 
 ## Security Labs
